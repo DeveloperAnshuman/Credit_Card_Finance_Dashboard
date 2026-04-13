@@ -1,7 +1,7 @@
 # Credit Card Financial Dashboard
 
 ## Project Objective
-To develop a comprehensive weekly credit card dashboard that provides real-time insights into key performance metrics and customer trends, enabling stakeholders to monitor and analyze operations effectively.
+Developed a comprehensive weekly credit card dashboard that provides real-time insights into key performance metrics and customer trends, enabling stakeholders to monitor and analyze operations effectively.
 
 ## Key Metrics (KPIs)
 * **Total Revenue:** 55.3M
