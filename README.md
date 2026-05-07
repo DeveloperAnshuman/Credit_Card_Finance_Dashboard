@@ -1,9 +1,9 @@
 # Credit Card Financial Weekly Dashboard
 
 ## Dashboard Visuals
-![Transaction Dashboard](https://raw.githubusercontent.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/main/cc_transaction_dashboard.jpg)
+![Transaction Dashboard](https://raw.githubusercontent.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/main/cc_transaction_dashboard.png)
 
-![Customer Dashboard](https://raw.githubusercontent.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/main/cc_customer_dashboard.jpg)
+![Customer Dashboard](https://raw.githubusercontent.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/main/cc_customer_dashboard(1).png)
 
 ---
 
