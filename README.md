@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="cc_transaction_dashboard.png" width="49%" alt="Transaction Dashboard" />
-  <img src="cc_customer_dashboard(1).png" width="49%" alt="Customer Dashboard" />
+  <img src="cc_customer_dashboard.png" width="49%" alt="Customer Dashboard" />
 </p>
 
 ---
