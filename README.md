@@ -1,9 +1,9 @@
 # Credit Card Financial Weekly Dashboard
 
 ## Dashboard Visuals
-![Financial Overview](https://raw.githubusercontent.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/main/Images/Dashboard_Overview.png)
+![Dashboard Screenshot](https://github.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/blob/main/cc_1.PNG?raw=true)
 
-![Customer Report](https://raw.githubusercontent.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/main/Images/Customer_Report.png)
+![Dashboard Screenshot](https://github.com/DeveloperAnshuman/Credit_Card_Finance_Dashboard/blob/main/cc_2.PNG?raw=true)
 
 ---
 
@@ -25,9 +25,9 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 *   **Demographics:** Customers aged 40-50 are the leading revenue contributors.
 
 ## Project Structure
-- `SQL_Queries/`: SQL scripts for database creation and data import.
-- `Power_BI/`: Interactive dashboard file (.pbix).
-- `Dataset/`: Source CSV files for customer and credit card data.
+- `cc_details.sql`: SQL scripts for database creation and data import.
+- `Credit_Card_Report.pbix`: Interactive dashboard file.
+- `Customer_detail.csv` & `Credit_card.csv`: Source data files.
 
 ## Steps to Reproduce
 1.  **Prepare Database:** Run the provided SQL scripts in MySQL to create tables and import CSV data.
